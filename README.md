@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @m-irfan
+- 👀 I’m interested in to solving problems.
+- 🌱 I’m currently learning socket.io with nodejs.
+- 💞️ I’m looking to collaborate on all types of mern stack projects.
+- 💬 Ask any MERN Stack related stuffs.
+- 
